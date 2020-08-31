@@ -5,7 +5,7 @@ django-rest-framework==0.1.0
 django-robots==3.1.0
 djangorestframework==3.10.3
 oauthlib==3.1.0
-Pillow==6.1.0
+Pillow==6.2.0
 pluginlib==1.11.3
 psycopg2-binary==2.8.3
 python-qt-binding==0.3.4
